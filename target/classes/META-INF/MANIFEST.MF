@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: uid0835
+Implementation-Vendor-Id: com.test
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/SMS/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
